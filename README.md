@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Josué Lujano Faustinos
+# 👋 ¡Hola! Soy Josue Lujano Faustinos
 
 Soy **Matemático egresado de la Facultad de Ciencias de la UNAM** y **Licenciado en Derecho por CESCIJUC**. Este repositorio es una recopilación de mis proyectos personales y profesionales, donde combino el pensamiento lógico, la programación y el análisis crítico para resolver problemas reales.
 
@@ -42,7 +42,7 @@ Me interesa todo lo que pueda traducirse en soluciones útiles, prácticas... y 
 
 Desarrollar proyectos útiles que resuelvan problemas concretos y que, al mismo tiempo, tengan potencial económico. Estoy abierto a colaborar en iniciativas que involucren **ciencia de datos, automatización, educación, asesorías o análisis jurídico-técnico**.
 
-## 📫 Contacto
+## 📫 Contacto 5578208283
 
 Si quieres trabajar conmigo, colaborar o simplemente charlar:
 
